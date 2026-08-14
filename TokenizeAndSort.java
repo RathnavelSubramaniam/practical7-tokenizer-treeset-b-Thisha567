@@ -1,4 +1,4 @@
-package pro7;
+
 import java.util.Scanner;
 import java.util.TreeSet;
 public class TokenizeAndSort {
